@@ -1,0 +1,7 @@
+﻿C:\Ayaz Develope\AyazPractice\AyazPractice\Bike.cs
+C:\Ayaz Develope\AyazPractice\AyazPractice\Employee.cs
+C:\Ayaz Develope\AyazPractice\AyazPractice\Mobile.cs
+C:\Ayaz Develope\AyazPractice\AyazPractice\MyMaths.cs
+C:\Ayaz Develope\AyazPractice\AyazPractice\Program.cs
+C:\Ayaz Develope\AyazPractice\AyazPractice\Properties\AssemblyInfo.cs
+C:\Ayaz Develope\AyazPractice\AyazPractice\App.config
